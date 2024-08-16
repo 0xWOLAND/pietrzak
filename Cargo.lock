@@ -1641,6 +1641,7 @@ name = "fibonacci-program"
 version = "0.1.0"
 dependencies = [
  "fibonacci-lib",
+ "num-bigint 0.4.6",
  "sha2",
  "sp1-zkvm",
 ]
@@ -1652,6 +1653,7 @@ dependencies = [
  "clap",
  "fibonacci-lib",
  "hex",
+ "num-bigint 0.4.6",
  "serde",
  "serde_json",
  "sp1-helper",
